@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class quotationSystemTest {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
+        System.out.println("Teste");
         ArrayList<Products> products = new ArrayList<Products>();
         int opcao;
 
